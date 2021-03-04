@@ -283,6 +283,9 @@ input, select, textarea {
 		}
 
 /* Row */
+div.b {
+  text-align: left;
+}
 
 	.row {
 		display: flex;
